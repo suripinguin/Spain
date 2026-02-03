@@ -1,0 +1,35 @@
+body {
+    background-color: red;
+    color: yellow;
+}
+h1 {
+    color: yellow;
+    font-size: 100px;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: red;
+}
+table {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border: thick ridge #0000FF;
+    background-color: #FF0004;
+}
+h2 {
+    color: #0B19C2;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    background-color: #FFFFFF;
+}
+img {
+    width: 350px;
+    height: 250px;
+}
+p {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    background-color: #2516E4;
+}
